@@ -1,0 +1,35 @@
+[
+  {
+    "account": "Wisconsin Hospital Association",
+    "to": "llarson@wha.org",
+    "to_name": "Leigh Ann Larson",
+    "subject": "Quick thought on WHA's CE program",
+    "body": "Hi Leigh Ann,\n\nSaw WHA is expanding its continuing-education tracks for member hospitals this year — that's a lot of completions to track across systems.\n\nA few hospital associations I work with hit the same wall: members earn the credits, but the board can't see completion data in one place without manual pulls.\n\nWorth a quick chat sometime? No pressure either way.\n\nPat",
+    "body_format": "text",
+    "category": "Outreach Pipeline",
+    "review": false,
+    "evidence": "Strong"
+  },
+  {
+    "account": "PA Association of Community Bankers",
+    "to": "twillhide@pacb.org",
+    "to_name": "Tricia Willhide",
+    "subject": "PACB compliance training — quick question",
+    "body": "Hi Tricia,\n\nWith the new compliance-training requirement landing on member banks, proving who completed what — cleanly, when an examiner asks — tends to get harder fast.\n\nCurious if that's on your radar at PACB. No pressure either way.\n\nPat",
+    "body_format": "text",
+    "category": "Outreach Pipeline",
+    "review": false,
+    "evidence": "Strong"
+  },
+  {
+    "account": "Michigan Dental Association",
+    "to": "sbrett@michigandental.org",
+    "to_name": "Sarah Brett",
+    "subject": "MDA recertification cycle — quick thought",
+    "body": "Hi Sarah,\n\nA new CE recertification cycle usually means a wave of members all trying to confirm their hours at once — and a lot of manual checking on your end.\n\nCurious how you're planning to handle the tracking this round. Happy to share what's working for similar groups if it's ever useful.\n\nPat",
+    "body_format": "text",
+    "category": "Outreach Pipeline",
+    "review": false,
+    "evidence": "Strong"
+  }
+]

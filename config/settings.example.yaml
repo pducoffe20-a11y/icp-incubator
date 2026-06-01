@@ -1,0 +1,21 @@
+# Copy to settings.yaml and edit. settings.yaml is git-ignored.
+
+# Where staged drafts land in Outlook (created under Drafts if missing)
+outlook_folder: "Outreach - Review"
+
+# Signature appended to every email body by the messaging step
+signature: |
+  Pat Ducoffe
+  Senior Account Executive | D2L
+  pat.ducoffe@d2l.com
+
+# Default greeting when contact_name is missing
+fallback_greeting: "Hi there,"
+
+# Processing
+process_only_priority: false   # true = only rows where priority == high
+max_accounts_per_run: 0        # 0 = no cap
+
+# Honesty / safety
+flag_inferred_emails: true     # inferred addresses always get review:true
+hold_if_no_signal: false       # true = don't draft None-evidence rows, hold them instead

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ICP Incubator Drafts",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["account", "to", "subject", "body", "body_format", "category", "review", "evidence"],
+    "properties": {
+      "account": { "type": "string" },
+      "to": { "type": "string", "format": "email" },
+      "to_name": { "type": "string" },
+      "subject": { "type": "string" },
+      "body": { "type": "string" },
+      "body_format": { "type": "string", "enum": ["text", "html"] },
+      "category": { "type": "string" },
+      "review": { "type": "boolean" },
+      "evidence": { "type": "string", "enum": ["Strong", "Thin", "None"] }
+    }
+  }
+}
